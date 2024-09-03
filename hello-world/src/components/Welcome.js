@@ -1,10 +1,10 @@
-import React, { Components } from 'react';
+//import React, { components } from 'react';
 
 
-class Welcome extends Components {
-    render() {
-      return <h1>Welcome to the App!</h1>;
-    }
-  }
+//class Welcome extends components {
+   // render() {
+    //  return <h1>Welcome to the App!</h1>;
+    //}
+  //}
 
-export default Welcome;
+//export default Welcome;
